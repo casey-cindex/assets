@@ -1,0 +1,11 @@
+{
+    "name": "SatoshiVM",
+    "type": "ERC20",
+    "symbol": "SAVM",
+    "decimals": 18,
+    "website": "https://savmswap.io/",
+    "description": "",
+    "explorer": "https://svmscan.io/token/0x0E02765992f946397E6d2e65642eABb9cc674928",
+    "status": "active",
+    "id": "0x0E02765992f946397E6d2e65642eABb9cc674928"
+}
