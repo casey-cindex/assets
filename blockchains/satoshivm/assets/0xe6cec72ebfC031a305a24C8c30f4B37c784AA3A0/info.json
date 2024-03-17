@@ -1,0 +1,11 @@
+{
+    "name": "Earnest SatoshiVM",
+    "type": "ERC20",
+    "symbol": "eSAVM",
+    "decimals": 18,
+    "website": "https://savmswap.io/",
+    "description": "",
+    "explorer": "https://svmscan.io/token/0xe6cec72ebfC031a305a24C8c30f4B37c784AA3A0",
+    "status": "active",
+    "id": "0xe6cec72ebfC031a305a24C8c30f4B37c784AA3A0"
+}
